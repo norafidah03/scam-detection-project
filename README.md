@@ -6,7 +6,7 @@ The trained models are hosted externally due to their large file size.
 ## How to Run this Project
 
 ### 1. Download Models
-The trained models must be downloaded from the following links and placed in the same folder as the code files:
+The trained models must be downloaded from the following links and placed in the same folder as the code files and preprocessed dataset:
 
 * **SVM Model (Folder):** https://drive.google.com/drive/folders/1N5eAaAmoh21RlRm2WBXYss2HXTUu_Gm_?usp=sharing
 * **mBERT Model (Folder):** https://drive.google.com/drive/folders/1XRptKTXBHOTajZgI_lIGo9g4SKlxJ2eV?usp=sharing
