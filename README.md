@@ -1,6 +1,4 @@
 # scam-detection-project
-Final Year Project: AI-Driven Financial Scam Detection using NLP.
-
 This repository contains the source code for my Final Year Project: **"AI-Driven Financial Scam Detection System Using NLP and Malaysian Social Media Data"**.
 
 The trained models are hosted externally due to their large file size.
